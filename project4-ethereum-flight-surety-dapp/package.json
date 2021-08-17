@@ -5,7 +5,7 @@
   "directories": {
     "test": "test"
   },
-  "repository": "https://github.com/andistoev/udacity-blockchain-developer-nanodegree--nd1309/tree/master/project4-ethereum-flight-surety-dapp",
+  "repository": "https://github.com/bluesky-coder/udacity-blockchain-developer/tree/master/project4-ethereum-flight-surety-dapp",
   "license": "MIT",
   "scripts": {
     "test": "truffle test ./test/FlightSurety.test.js",
