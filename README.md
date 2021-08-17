@@ -59,10 +59,11 @@ Ethereum RealEstateMarketplace Dapp is a decentralized marketplace for house pro
 
 ### ... And My Reward ...
 
-[![my certificate](res/stoev-blockchain-developer-certificate.jpg)](https://confirm.udacity.com/D3M4JLAF)
+[![my certificate](res/stoev-blockchain-developer-certificate.jpg)]
+<!-- (https://confirm.udacity.com/D3M4JLAF) -->
 
 ### About me
 
-My name is [Andrey Zahariev Stoev](https://www.linkedin.com/in/andistoev). I am working as Senior Software Architect in
+My name is [Blue Sky](https://github.com/in/bluesky-coder). I am working as Senior Software Architect in
 Switzerland. I love software craftsmanship and systems thinking. I am passionate about travel, languages and cultural
 diversity exploration.
