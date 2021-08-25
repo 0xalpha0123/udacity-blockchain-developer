@@ -56,14 +56,14 @@ Ethereum RealEstateMarketplace Dapp is a decentralized marketplace for house pro
 - House properties can be traded on a public NFT marketplace OpenSea
 
 [![project5](project5-ethereum-real-estate-marketplace-dapp/res/pareot-reseller.jpg)](project5-ethereum-real-estate-marketplace-dapp/README.md)
-
+<!-- 
 ### ... And My Reward ...
 
 [![my certificate](res/stoev-blockchain-developer-certificate.jpg)]
 <!-- (https://confirm.udacity.com/D3M4JLAF) -->
-
+ -->
 ### About me
 
-My name is [Blue Sky](https://github.com/in/bluesky-coder). I am working as Senior Software Architect in
+My name is [Maksym Pogonets](https://github.com/in/maksympogonets). I am working as Senior Software Architect in
 Switzerland. I love software craftsmanship and systems thinking. I am passionate about travel, languages and cultural
 diversity exploration.
